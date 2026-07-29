@@ -17,10 +17,10 @@
 - Interactive filters and visualisations enable HR managers to analyse trends by age, department, education, salary, and job role for better decision-making.
 - View Dashboard - <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20PROJECT.jpeg">Dashboard
 
-## Dataset Used Link
+### Dataset Used Link
 - <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR_Analytics-4pb.csv">Dataset
 
-### KPI 
+## KPI 
 - Total Employees: The organisation has a total workforce of approximately 1,470 employees.
 - Active Employees: Around 1,233 employees are currently active in the organisation.
 - Attrition Count: A total of 237 employees have left the company.
@@ -29,4 +29,5 @@
 - Average Age: The average age of employees is 36.92 years, indicating a predominantly mid-career workforce.
 
 ## Project Dashboard  
-- <a href="C:\Users\MAHIR KHAN\Downloads\HR ANALYTICS PROJECT.jpeg">
+<img width="1600" height="900" alt="HR ANALYTICS PROJECT" src="https://github.com/user-attachments/assets/0f86b519-571f-4bc5-b4b3-2541a07431a1" />
+
