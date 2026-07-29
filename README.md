@@ -16,10 +16,9 @@
 - Sales Executives, Research Scientists, and Laboratory Technicians are the largest job roles in the organisation.
 - Interactive filters and visualisations enable HR managers to analyse trends by age, department, education, salary, and job role for better decision-making.
 
-#### View Dashboard
-- <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20PROJECT.jpeg">Dashboard
-#### Dataset Used Link 
-- <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR_Analytics-4pb.csv">Dataset
+- View Dashboard - <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20PROJECT.jpeg">Dashboard
+##Dataset Used Link 
+- <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR_Analytics-4pb.csv">Dataset File
 
 ## KPI 
 - Total Employees: The organisation has a total workforce of approximately 1,470 employees.
