@@ -29,5 +29,6 @@
 - Average Age: The average age of employees is 36.92 years, indicating a predominantly mid-career workforce.
 
 ## Project Dashboard  
-<img width="1600" height="900" alt="HR ANALYTICS PROJECT" src="https://github.com/user-attachments/assets/0f86b519-571f-4bc5-b4b3-2541a07431a1" />
+<img width="1290" height="724" alt="image" src="https://github.com/user-attachments/assets/e6c1d414-8cad-4f83-86dc-e4ff69d7a199" />
+
 
