@@ -15,9 +15,9 @@
 - Employees earning up to 5K have the highest attrition, indicating salary may influence employee turnover.
 - Sales Executives, Research Scientists, and Laboratory Technicians are the largest job roles in the organisation.
 - Interactive filters and visualisations enable HR managers to analyse trends by age, department, education, salary, and job role for better decision-making.
-
 - View Dashboard - <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20PROJECT.jpeg">Dashboard
-##Dataset Used Link 
+
+## Dataset Used Link 
 - <a href="https://github.com/sindhimahirkhan-0420/HR-ANALYTICS-DASHBOARD/blob/main/HR_Analytics-4pb.csv">Dataset File
 
 ## KPI 
